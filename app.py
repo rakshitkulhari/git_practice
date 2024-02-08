@@ -1,5 +1,5 @@
 <<<<<<< HEAD
-def addition(a,b):
+def addition(a,b,c):
     print(a+b+c)
 =======
 def addition(a,b,c):
